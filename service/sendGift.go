@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"errors"
 	"fmt"
-	"giftRanking/model/coinHistory/coinHistory_crud"
-	"giftRanking/model/user/user_crud"
-	"giftRanking/util"
+	"gift/model/coinHistory/coinHistory_crud"
+	"gift/model/user/user_crud"
+	"gift/util"
 	"github.com/garyburd/redigo/redis"
 	"log"
 	"os"
@@ -141,7 +141,6 @@ func GetSortGift(userId string)( ret Ret){
 		i++
 	}
 	ret.TotalCount=i
-
 	sort.Stable(ret.Data)
 	return ret
 }

@@ -1,7 +1,7 @@
 package util
 
 import (
-	"giftRanking/conf"
+	"gift/conf"
 	"github.com/garyburd/redigo/redis"
 	"time"
 )

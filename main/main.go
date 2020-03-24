@@ -1,7 +1,7 @@
 package main
 
 import (
-	"giftRanking/reqHandle"
+	"gift/reqHandle"
 	"log"
 	"net/http"
 	_"net/http/pprof"

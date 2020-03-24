@@ -1,86 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d46ca6d3-b37c-40ce-a118-66fa52782d20" name="Default Changelist" comment="" />
+    <list default="true" id="b505e43f-6651-4ad3-a5cf-60a0ddbdcd41" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="giftRanking" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Go File" />
-      </list>
-    </option>
-  </component>
   <component name="GOROOT" path="D:\Go" />
-  <component name="ProjectId" id="1ZC3bIMJV3x2jy0vIT3PLO4Lmle" />
+  <component name="ProjectId" id="1ZVilPJYkdPGDR6zQKVEDpmyQYa" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\10419\go\src\giftRanking\model\coinHistory" />
-      <recent name="C:\Users\10419\go\src\giftRanking\model\user" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\10419\go\src\giftRanking\service" />
-      <recent name="C:\Users\10419\go\src\giftRanking\util" />
-      <recent name="C:\Users\10419\go\src\giftRanking\model\coinHistory" />
-      <recent name="C:\Users\10419\go\src\giftRanking\model\user\user_crud" />
-      <recent name="C:\Users\10419\go\src\giftRanking\model\coinHistory\coinHistory_crud" />
+      <recent name="C:\Users\10419\go\src\gift" />
     </key>
   </component>
   <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build gift/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gift" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <sudo value="true" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main/main.go" />
+      <package value="gift/main" />
+      <directory value="$PROJECT_DIR$/" />
+      <option name="run" value="false" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="giftRanking" />
+      <module name="gift" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/main/main.go" />
-      <package value="giftRanking" />
+      <package value="gift" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build test.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="giftRanking" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/main/test.go" />
-      <package value="giftRanking" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build gift/main" />
+      <item itemvalue="Go Build.go build main.go" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Go Build.go build main.go" />
-        <item itemvalue="Go Build.go build test.go" />
+        <item itemvalue="Go Build.go build gift/main" />
       </list>
     </recent_temporary>
   </component>
@@ -88,81 +65,37 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="367" y="78" key="#Inspections" timestamp="1584365133542">
+    <state x="230" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584932602942">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="367" y="78" key="#Inspections/0.0.1549.831@0.0.1549.831" timestamp="1584365133542" />
-    <state x="230" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584350276284">
+    <state x="230" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1549.831@0.0.1549.831" timestamp="1584932602942" />
+    <state x="555" y="171" key="FileChooserDialogImpl" timestamp="1584932437596">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="230" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1549.831@0.0.1549.831" timestamp="1584350276284" />
-    <state x="506" y="77" key="#go_build_user_crud.go" timestamp="1584344466796">
+    <state x="555" y="171" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1584932437596" />
+    <state width="1506" height="188" key="GridCell.Tab.0.bottom" timestamp="1584954065183">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="506" y="77" key="#go_build_user_crud.go/0.0.1549.831@0.0.1549.831" timestamp="1584344466796" />
-    <state x="530" y="124" key="#xdebugger.evaluate" timestamp="1584518415005">
+    <state width="1506" height="188" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1584954065183" />
+    <state width="1506" height="188" key="GridCell.Tab.0.center" timestamp="1584954065183">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="530" y="124" key="#xdebugger.evaluate/0.0.1549.831@0.0.1549.831" timestamp="1584518415005" />
-    <state width="795" height="466" key="DebuggerActiveHint" timestamp="1584589904060">
+    <state width="1506" height="188" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1584954065183" />
+    <state width="1506" height="188" key="GridCell.Tab.0.left" timestamp="1584954065183">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="795" height="466" key="DebuggerActiveHint/0.0.1549.831@0.0.1549.831" timestamp="1584589904060" />
-    <state x="93" y="93" width="1363" height="645" key="DiffContextDialog" timestamp="1584592130730">
+    <state width="1506" height="188" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1584954065183" />
+    <state width="1506" height="188" key="GridCell.Tab.0.right" timestamp="1584954065183">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="93" y="93" width="1363" height="645" key="DiffContextDialog/0.0.1549.831@0.0.1549.831" timestamp="1584592130730" />
-    <state width="1506" height="227" key="GridCell.Tab.0.bottom" timestamp="1584600417633">
+    <state width="1506" height="188" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1584954065183" />
+    <state x="284" y="58" key="SettingsEditor" timestamp="1584933813983">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="227" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1584600417633" />
-    <state width="1506" height="227" key="GridCell.Tab.0.center" timestamp="1584600417633">
+    <state x="284" y="58" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1584933813983" />
+    <state x="398" y="0" width="752" height="831" key="find.popup" timestamp="1584932538787">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="227" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1584600417633" />
-    <state width="1506" height="227" key="GridCell.Tab.0.left" timestamp="1584600417633">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state width="1506" height="227" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1584600417633" />
-    <state width="1506" height="227" key="GridCell.Tab.0.right" timestamp="1584600417633">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state width="1506" height="227" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1584600417633" />
-    <state width="1506" height="227" key="GridCell.Tab.1.bottom" timestamp="1584600417560">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state width="1506" height="227" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1584600417560" />
-    <state width="1506" height="227" key="GridCell.Tab.1.center" timestamp="1584600417560">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state width="1506" height="227" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1584600417560" />
-    <state width="1506" height="227" key="GridCell.Tab.1.left" timestamp="1584600417559">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state width="1506" height="227" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1584600417559" />
-    <state width="1506" height="227" key="GridCell.Tab.1.right" timestamp="1584600417560">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state width="1506" height="227" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1584600417560" />
-    <state x="93" y="93" width="1363" height="645" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1584592130730">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state x="93" y="93" width="1363" height="645" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1549.831@0.0.1549.831" timestamp="1584592130730" />
-    <state x="93" y="93" width="1363" height="645" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1584599726085">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state x="93" y="93" width="1363" height="645" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1549.831@0.0.1549.831" timestamp="1584599726085" />
-    <state x="336" y="155" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1584351564005">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state x="336" y="155" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1549.831@0.0.1549.831" timestamp="1584351564005" />
-    <state x="412" y="4" width="725" height="822" key="find.popup" timestamp="1584589410558">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state x="412" y="4" width="725" height="822" key="find.popup/0.0.1549.831@0.0.1549.831" timestamp="1584589410558" />
-    <state x="437" y="152" width="672" height="678" key="search.everywhere.popup" timestamp="1584588909764">
-      <screen x="0" y="0" width="1549" height="831" />
-    </state>
-    <state x="437" y="152" width="672" height="678" key="search.everywhere.popup/0.0.1549.831@0.0.1549.831" timestamp="1584588909764" />
+    <state x="398" y="0" width="752" height="831" key="find.popup/0.0.1549.831@0.0.1549.831" timestamp="1584932538787" />
   </component>
 </project>
